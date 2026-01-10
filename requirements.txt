@@ -1,4 +1,5 @@
 azure-functions
 azure-storage-blob
+azure-communication-email
 requests
 openpyxl
